@@ -93,25 +93,6 @@ A custom convolution-based feature extraction method designed to emphasize retin
 
 ---
 
-## 🖼️ Preprocessing Results
-
-### Original Retinal Image
-
-![Original Image](images/original_retina.png)
-
-### Histogram Equalized Image
-
-![Histogram Equalization](images/histogram_equalization.png)
-
-### Gaussian Enhanced Image
-
-![Gaussian Enhancement](images/gaussian_enhancement.png)
-
-### Krish Feature Extraction Output
-
-![Krish Feature Extraction](images/krish_feature_extraction.png)
-
----
 
 ## 🧠 Model Architecture
 
@@ -198,13 +179,13 @@ Model Saving (.h5)
 
 ## 📉 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
 ## 📈 ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve.PNG)
 
 ---
 
@@ -244,6 +225,12 @@ Diabetic-Retinopathy-Detection/
 └── LICENSE
 ```
 
+
+## 📈 flow chart
+
+![ROC Curve](flow.png)
+
+
 ---
 
 ## 🚀 Future Improvements
@@ -272,6 +259,11 @@ Diabetic-Retinopathy-Detection/
 ✅ TensorFlow/Keras Implementation
 
 ✅ Deployment Ready
+
+## 📈 User Interface
+
+![ROC Curve](ui.PNG)
+
 
 ---
 
