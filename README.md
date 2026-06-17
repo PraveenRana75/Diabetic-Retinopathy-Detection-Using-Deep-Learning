@@ -185,7 +185,7 @@ Model Saving (.h5)
 
 ## 📈 ROC Curve
 
-![ROC Curve](images/roc_curve.PNG)
+![ROC Curve](roc_curve.PNG)
 
 ---
 
@@ -228,7 +228,7 @@ Diabetic-Retinopathy-Detection/
 
 ## 📈 flow chart
 
-![ROC Curve](flow.png)
+![flow](flow.png)
 
 
 ---
